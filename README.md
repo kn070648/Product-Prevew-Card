@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Product-Preview-Card](https://kn070648.github.io/Product-Prevew-Card/))
+- Live Site URL: [Product-Preview-Card](https://kn070648.github.io/Product-Prevew-Card/)
 
 ## My process
 
