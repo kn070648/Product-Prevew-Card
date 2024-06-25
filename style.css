@@ -175,6 +175,11 @@ img {
   .product-price {
     margin-top: 15px;
   }
+  .add-to-cart-btn {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 @media (min-width: 376px) and (max-width: 600px) {
@@ -209,5 +214,10 @@ img {
   }
   .product-price {
     margin-top: 15px;
+  }
+  .add-to-cart-btn {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
   }
 }
