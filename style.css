@@ -62,8 +62,7 @@ img {
   display: grid;
   justify-content: space-between;
   align-items: center;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 0px 30px 30px 30px;
   gap: 20px;
 }
 
